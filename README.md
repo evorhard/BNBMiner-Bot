@@ -11,4 +11,4 @@ ADDRESS (The addres of your own wallet)
 TOKEN_ADDRESS=0xce93F9827813761665CE348e33768Cb1875a9704 (This one stays constant; wallet address for BNBMiner)  
 PRIVATE_KEY (Your private wallet key)  
   
-To run it clone the repository and in your preferred command line tool run "python3 app.py"
+To run it clone the repository and in your preferred command line tool run "python app.py"
